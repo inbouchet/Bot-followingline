@@ -1,5 +1,7 @@
-# FirstBot
-> line follower robot
+# Bot-followingline
+
+Project in collaboration with ENSEIRB ROBOTICS.
+
 
 ![](./robot.jpg)
 
